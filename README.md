@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm Turzo Ahsan Sami, a passionate software engine
 - Technology: PHP-Laravel + MySQL
 
 
-![Work_Experience]([https://example.com/path/to/your/image.jpg](https://github.com/ahsan-sami-turzo/ahsan-sami-turzo/blob/main/Untitled.png))
+![Work Experience](https://github.com/ahsan-sami-turzo/ahsan-sami-turzo/blob/main/Untitled.png)
 
 
 ## 🎓 Education
