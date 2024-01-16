@@ -1,6 +1,6 @@
 # Turzo Ahsan Sami
 
-## Software Engineer | Building Sustainable Enterprise Solutions
+## Software Engineer 
 
 Welcome to my GitHub profile! I'm Turzo Ahsan Sami, a passionate software engineer with a strong background in building modular enterprise solutions and a focus on software sustainability and Green Coding practices.
 
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm Turzo Ahsan Sami, a passionate software engine
 ### Version Control
 - Git
 
-## 🚀 Experience
+## 🚀 Work Experience
 
 ### Senior Software Engineer | Ambala IT, Bangladesh | 2020 - 2023
 - Project Engineer: Enterprise Resource Planning (ERP) Software
@@ -54,6 +54,10 @@ Welcome to my GitHub profile! I'm Turzo Ahsan Sami, a passionate software engine
 ### Junior Software Developer | Amber IT Limited | 2015 - 2016
 - Inventory Management Module
 - Technology: PHP-Laravel + MySQL
+
+
+![Work_Experience]([https://example.com/path/to/your/image.jpg](https://github.com/ahsan-sami-turzo/ahsan-sami-turzo/blob/main/Untitled.png))
+
 
 ## 🎓 Education
 
