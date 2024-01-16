@@ -4,7 +4,9 @@
 
 Welcome to my GitHub profile! I'm Turzo Ahsan Sami, a passionate software engineer with a strong background in building modular enterprise solutions and a focus on software sustainability and Green Coding practices.
 
-🌍 Currently based in Lappeenranta, Finland
+🌍 Currently based in Finland
+
+![Skills](https://raw.githubusercontent.com/ahsan-sami-turzo/ahsan-sami-turzo/main/Untitled2.png)
 
 ## 🔧 Skills
 
